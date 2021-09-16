@@ -1,0 +1,129 @@
+
+mjkeh@MinJeeKeh MINGW64 ~
+$ git clone "https://github.com/mjkeh/Computational-Social-ScienceProjects.git"
+Cloning into 'Computational-Social-ScienceProjects'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+mjkeh@MinJeeKeh MINGW64 ~
+$ git add README.md
+fatal: not a git repository (or any of the parent directories): .git
+
+mjkeh@MinJeeKeh MINGW64 ~
+$ pwd
+/c/Users/mjkeh
+
+mjkeh@MinJeeKeh MINGW64 ~
+$ cd "C:\Users\mjkeh\Computational-Social-Science-Training-Program-master"
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master
+$ git clone ""https://github.com/mjkeh/Computational-Social-ScienceProjects.git"
+>
+> pwd
+> pwd
+> git clone ""https://github.com/mjkeh/Computational-Social-ScienceProjects.git"
+Cloning into 'Computational-Social-ScienceProjects'...
+warning: url contains a newline in its path component: https://github.com/mjkeh/Computational-Social-ScienceProjects.git
+
+pwd
+pwd
+git clone https://github.com/mjkeh/Computational-Social-ScienceProjects.git/
+fatal: credential url cannot be parsed: https://github.com/mjkeh/Computational-Social-ScienceProjects.git
+
+pwd
+pwd
+git clone https://github.com/mjkeh/Computational-Social-ScienceProjects.git/
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master
+$ pwd
+/c/Users/mjkeh/Computational-Social-Science-Training-Program-master
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master
+$ ls
+'Causal Inference'/                     'Project 8'/
+ Computational-Social-ScienceProjects/   README.md
+'Fundamentals for Machine Learning'/    'Reproducible Data Science'/
+'Natural Language Processing'/          'Supervised Machine Learning'/
+'Project 2'/                            'Unsupervised Machine Learning and TPOT'/
+'Project 3'/                             data/
+'Project 4'/                             first_repo/
+'Project 5'/                             gitignore.txt
+'Project 6'/                             images/
+'Project 7'/
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master
+$ git add*
+git: 'add*' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master
+$ mjdir "Project1"
+bash: mjdir: command not found
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master
+$ mkdir "Project1"
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master
+$ ls
+'Causal Inference'/                     'Project 8'/
+ Computational-Social-ScienceProjects/   Project1/
+'Fundamentals for Machine Learning'/     README.md
+'Natural Language Processing'/          'Reproducible Data Science'/
+'Project 2'/                            'Supervised Machine Learning'/
+'Project 3'/                            'Unsupervised Machine Learning and TPOT'/
+'Project 4'/                             data/
+'Project 5'/                             first_repo/
+'Project 6'/                             gitignore.txt
+'Project 7'/                             images/
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master
+$ cd "C:\Users\mjkeh\Computational-Social-Science-Training-Program-master\Computational-Social-ScienceProjects"
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects (main)
+$ ls
+README.md
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects (main)
+$ mkdir "Project1"
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects (main)
+$ ls
+Project1/  README.md
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects (main)
+$ cd "C:\Users\mjkeh\Computational-Social-Science-Training-Program-master\Computational-Social-ScienceProjects\Project1"
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects/Project1 (main)
+$ pwd
+/c/Users/mjkeh/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects/Project1
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects/Project1 (main)
+$ git add Project1.txt
+fatal: pathspec 'Project1.txt' did not match any files
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects/Project1 (main)
+$ mkdir ^C
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects/Project1 (main)
+$ mkdir Project.txt
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects/Project1 (main)
+$ touch Project1.txt
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects/Project1 (main)
+$ ls
+Project1.txt
+
+mjkeh@MinJeeKeh MINGW64 ~/Computational-Social-Science-Training-Program-master/Computational-Social-ScienceProjects/Project1 (main)
+$ vim Project.txt
+
+git add *
+git commit -m "project1 updated"
+git push
+
+
+
